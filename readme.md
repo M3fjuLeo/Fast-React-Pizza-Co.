@@ -2,7 +2,7 @@
 
 Fast React Pizza Co. is a Redux project where people can order pizza without authentication.
 
-👉 Live Demo: https://fast-react-pizza-co-lime.vercel.app/cart
+👉 Live Demo: https://fast-react-pizza-co-lime.vercel.app
 
 # Project requirements from the business
 
