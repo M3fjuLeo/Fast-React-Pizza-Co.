@@ -29,5 +29,5 @@ Redux
 
 ![Home Page](public/screenshot1.png)
 ![Home Page](public/screenshot4.png)
-![Home Page](public/screenshot2.png)
 ![Home Page](public/screenshot3.png)
+![Home Page](public/screenshot2.png)
